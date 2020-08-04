@@ -12,6 +12,8 @@
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/instagram.png" />](https://www.instagram.com/ezzylan_/)
 [<img align="left" alt="SoundCloud" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/soundcloud.png" />](https://soundcloud.com/behazemusique)
 
+<br />
+
 ### Languages:
 
 <img align="left" alt="Java" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/java.png" />
