@@ -8,12 +8,8 @@
 
 ### Connect with me:
 
-[twitter]
-[instagram]
-[soundcloud]
+[![Twitter](https://github.com/ezzylan/ezzylan/blob/master/images/twitter.png)](https://twitter.com/ezzylan_)[![Instagram](https://github.com/ezzylan/ezzylan/blob/master/images/instagram.png)](https://www.instagram.com/ezzylan_/)[![SoundCloud](https://github.com/ezzylan/ezzylan/blob/master/images/soundcloud.png)](https://soundcloud.com/behazemusique)
 
 ### Languages:
 
-[twitter]: https://twitter.com/ezzylan_
-[instagram]: https://www.instagram.com/ezzylan_/
-[soundcloud]: https://soundcloud.com/behazemusique
+[![Java](https://github.com/ezzylan/ezzylan/blob/master/images/java.png)][![Python](https://github.com/ezzylan/ezzylan/blob/master/images/python.png)]
