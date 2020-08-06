@@ -6,15 +6,12 @@
 - 🥅 2020 Goals: **Code more!** 😄
 - ⚡ Fun fact: I love to make music in my computer using **Cakewalk by Bandlab**.
 
+**Languages:** Java, Flutter (Dart), Python
+
+**Tools:** Visual Studio Code, IntelliJ IDEA, Apache Netbeans
+
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/twitter.png" />](https://twitter.com/ezzylan_)
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/instagram.png" />](https://www.instagram.com/ezzylan_/)
 [<img align="left" alt="SoundCloud" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/soundcloud.png" />](https://soundcloud.com/behazemusique)
-
-<br />
-
-### Languages:
-
-<img align="left" alt="Java" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/java.png" />
-<img align="left" alt="Python" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/python.png" />
