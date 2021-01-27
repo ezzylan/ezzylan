@@ -1,6 +1,6 @@
 # Hello there, I'm **Ezlan** from Malaysia! 👋
 
-- 🔭 I'm currently a **sophomore** majoring in **Software Engineering** at the **University of Malaya**.
+- 🔭 I'm currently a **sophomore** majoring in **Software Engineering** at **Universiti Malaya**.
 - 🌱 I’m currently learning **Java, Javascript and Python** for back-end development and **Flutter with Dart** for front-end development.
 - 👯 I’m looking to collaborate on any project, games development and mobile app as it can increase my knowledge in this field.
 - 🥅 2021 Goals: **Code more!** 😄
