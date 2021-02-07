@@ -1,7 +1,7 @@
 # Hello there, I'm **Ezlan** from Malaysia! 👋
 
 - 🔭 I'm currently a **sophomore** majoring in **Software Engineering** at **Universiti Malaya**.
-- 🌱 I’m currently learning **Python, Javascript and Java** for back-end development and **HTML+CSS and Flutter+Dart** for front-end development.
+- 🌱 I’m currently learning **Python, JavaScript and Java** for back-end development and **HTML+CSS+JavaScript and Flutter+Dart** for front-end development.
 - 👯 I’m looking to collaborate on any projects, be it web, game or mobile app development as it can increase my knowledge in those fields.
 - 🥅 2021 Goals: **Code more!** 😄
 - ⚡ Fun fact: I love to make music in my computer using **Cakewalk by Bandlab**.
