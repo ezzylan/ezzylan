@@ -17,4 +17,4 @@
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/instagram.png" />](https://www.instagram.com/ezzylan_/)
 [<img align="left" alt="SoundCloud" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/soundcloud.png" />](https://soundcloud.com/ezulmusic)<br/><br/>
 
-[![Ezlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzylan&theme=react&show_icons=true)](https://github.com/ezzylan/github-readme-stats)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzylan&layout=compact&theme=react)](https://github.com/ezzylan/github-readme-stats)
+[![Ezlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzylan&theme=react&show_icons=true)](https://github.com/ezzylan/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzylan&layout=compact&theme=react)](https://github.com/ezzylan/github-readme-stats)
