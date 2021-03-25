@@ -6,15 +6,22 @@
 - 🥅 2021 Goals: **Code more!** 😄
 - ⚡ Fun fact: I love to make music on my computer using **Cakewalk by Bandlab**.
 
-**Languages:** Python, Javascript, PHP, Java, Dart
+### Programming Languages<br/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 
-**Tools:** Visual Studio Code, IntelliJ IDEA, Apache Netbeans
+### Frameworks<br/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 
-### Connect with me:
+### Design Tools<br/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/linkedin.png" />](https://www.linkedin.com/in/ezlan-zulfiqree/)
-[<img align="left" alt="Twitter" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/twitter.png" />](https://twitter.com/ezzylan_)
-[<img align="left" alt="Instagram" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/instagram.png" />](https://www.instagram.com/ezzylan_/)
-[<img align="left" alt="SoundCloud" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/soundcloud.png" />](https://soundcloud.com/ezulmusic)<br/><br/>
+### Hosting Services<br/>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+
+### Databases<br/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
+## Connect with me! 🤝🏻
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ezlan-zulfiqree/) [<img alt="Twitter" src="https://img.shields.io/badge/ezzylan%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ezzylan_) [<img alt="Instagram" src="https://img.shields.io/badge/ezzylan%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ezzylan_/) [<img alt="Youtube" src="https://img.shields.io/badge/Ezlan Zulfiqree%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCLSqiEayFk8Xg0ZFG8wOQ5w) [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ezzylan_) [<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://ezzylan.hashnode.dev/)<br/><br/>
 
 [![Ezlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzylan&theme=react&show_icons=true)](https://github.com/ezzylan/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzylan&layout=compact&theme=react)](https://github.com/ezzylan/github-readme-stats)
