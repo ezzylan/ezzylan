@@ -1,10 +1,10 @@
 # Hello there, I'm **Ezlan** from Malaysia! 👋
 
 - 🔭 I'm currently a **postgraduate student** undertaking **Master of Software Engineering** at **Universiti Malaya, Kuala Lumpur, Malaysia**.
-- 🌱 I’m working on my **dissertation**, titled **"Utilizing Mixed Reality To Provide Low-Cost Alternative Teaching Style To Musical Instrument Education"**.
-- 💡 I'm interested in learning **Firebase and Django** for back-end development, and **Svelte, Vue and React** for front-end development.
+- 🌱 I’m working on my **dissertation**, titled **"Large Scale Processing Model for Energy Monitoring Systems"**.
+- 💡 I'm interested in learning different technologies applicable to everyday life situations, mostly in web development.
 - 👯 I’m open to collaborating on any projects, be it **web or mobile app development**, to increase my development knowledge in those fields.
-- 🥅 2023 Goals: **Code more 👨🏻‍💻, involve in open source projects ⚙️, keep learning new things 📚, and stay positive! 😄**
+- 🥅 2024 Goals: **Code more 👨🏻‍💻, involve in open source projects ⚙️, keep learning new things 📚, and stay positive! 😄**
 - ⚡ Fun fact: I used to make music on my computer using **Waveform by Tracktion**. 🎶
 
 ### Programming Languages
