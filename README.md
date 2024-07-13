@@ -1,7 +1,7 @@
 # Hello there, I'm **Ezlan** from Malaysia! 👋
 
 - 🔭 I'm currently a **postgraduate student** undertaking **Master of Software Engineering** at **Universiti Malaya, Kuala Lumpur, Malaysia**.
-- 🌱 I’m working on my **dissertation**, titled **"Large Scale Processing Model for Energy Monitoring Systems"**.
+- 🌱 I’m working on my **dissertation**, titled **"Graph-based Energy Data Model for Holistic Energy Monitoring Systems in Residential Buildings"**.
 - 💡 I'm interested in learning different technologies applicable to everyday life situations, mostly in web development.
 - 👯 I’m open to collaborating on any projects, be it **web or mobile app development**, to increase my development knowledge in those fields.
 - 🥅 2024 Goals: **Code more 👨🏻‍💻, involve in open source projects ⚙️, keep learning new things 📚, and stay positive! 😄**
