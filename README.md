@@ -1,6 +1,6 @@
 # Hello there, I'm **Ezlan** from Malaysia! 👋
 
-- 🔭 I'm currently working as a **full-stack developer** at **Mercedes-Benz Tech Malaysia**.
+- 🔭 I'm currently working as a **Full Stack Developer** at **Mercedes-Benz Tech Malaysia**.
 - 🎓 I took my **Master of Software Engineering** degree at **Universiti Malaya, Kuala Lumpur, Malaysia**.
 - 🌱 I worked on my **dissertation**, titled **"Graph-Based Energy Data Model for Energy Monitoring Systems in Residential Buildings"**, during my Master's.
 - 💡 I'm interested in learning different technologies applicable to everyday life situations, mostly in web development.
